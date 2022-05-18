@@ -5,4 +5,7 @@ https://github.com/Sri-Thulasi/MyDevops/commit/25709e8a0251128623b6e57686f55db10
 Day-2
 https://github.com/Sri-Thulasi/MyDevops/commit/d97a66d812fb45480699c049ce32887d41c24a29#commitcomment-73116172
 
+application Basics
+https://docs.google.com/document/d/1-iDnBaJq5It9uJuYn3U2PvdVKuZ-nJdSXXNVwcwOYFg/edit
+
 
